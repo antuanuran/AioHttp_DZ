@@ -1,0 +1,10 @@
+GET http://localhost:8080/api/users
+
+###
+
+POST http://localhost:8080/api/users
+
+{
+  "username": "demo6",
+  "password_hash": "dsfgsdfg"
+}
